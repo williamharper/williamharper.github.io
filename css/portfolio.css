@@ -4,7 +4,7 @@ body {
     height: 100%;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #f3f3f3;
+    background-color: #A9A4A4;
 }
 
 html {
@@ -64,7 +64,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: #BAB;
 }
 
 .navbar-custom .navbar-brand {
@@ -136,7 +136,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/overview.jpg) no-repeat bottom center scroll;
+    background: url(../img/batman_arkham_origins_joker_wallpaper_by_danteartwallpapers-d6runzh.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -255,7 +255,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/computertable.jpg) no-repeat bottom center scroll;
+    background: url(../img/joker.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -275,7 +275,7 @@ a:focus {
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #F8F7F7;
 }
 
 @media(min-width:767px) {
@@ -345,7 +345,7 @@ footer p {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background: #A9A4A4;
     background: rgba(255,255,255,.2);
 }
 
